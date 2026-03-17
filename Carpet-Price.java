@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CARpetPrice{
+public class Carpet-Price{
   public static void main(String[] args) {
      Scanner keyb= new Scanner(System.in);
         System.out.print("Enter length in inches:");
